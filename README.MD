@@ -1,3 +1,5 @@
+![Manikanta Akuta | DevOps Engineer at Infosys](Blue-Gold-Elegant-Minimalist-Digital-Marketer-LinkedIn-Banner.jpg)
+
 # 💫 About Me:
 Hi 👋, I am Akula Sai Manikanta, currently working as a DevOps engineer at Infosys.
 

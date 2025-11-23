@@ -21,7 +21,7 @@ Hi 👋, I am Akula Sai Manikanta, currently working as a DevOps engineer at Inf
   </tr>
 </table>
 
-### 🔝 Top Contributed Repo:
+## 🔝 Top Contributed Repo:
 
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Maniakula202&limit=5&theme=dark&combine_all_yearly_contributions=true" />
@@ -43,7 +43,7 @@ Hi 👋, I am Akula Sai Manikanta, currently working as a DevOps engineer at Inf
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akula-sai-manikanta-745036232?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqK9ghlUjQeSML6%2B7iFxeGA%3D%3D) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maniakula202@gmail.com) 
 
 
-### 👾 Pacman Contribution Graph
+## 👾 Pacman Contribution Graph:
 
 <picture>
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Maniakula202/Maniakula202/output/pacman-contribution-graph.svg">

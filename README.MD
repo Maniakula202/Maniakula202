@@ -6,25 +6,33 @@ Hi 👋, I am Akula Sai Manikanta, currently working as a DevOps engineer at Inf
 <table>
   <tr>
     <td>
-      <img width="450" src="https://github-readme-stats.vercel.app/api?username=Maniakula202&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Maniakula202&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
     </td>
     <td>
-      <img width="450" src="https://nirzak-streak-stats.vercel.app/?user=Maniakula202&theme=dark&hide_border=false" />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=Maniakula202&theme=dark&hide_border=false" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img width="920" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maniakula202&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maniakula202&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
     </td>
   </tr>
 </table>
 
-
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Maniakula202&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Maniakula202&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Maniakula202&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Maniakula202&icon=0&color=0" />
+  </a>
+</div>
+
 
 
 # 💻 Tech Stack:

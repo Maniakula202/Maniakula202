@@ -1,9 +1,9 @@
 <img src="banner-1.png" alt="Manikanta Akuta | DevOps Engineer at Infosys Banner" style="width:100%;max-width:900px;" />
 
-# 💫 About Me:
-Hi 👋, I am Akula Sai Manikanta, currently working as a DevOps engineer at Infosys.
+## 💫 About Me:
+Hi 👋, I am Akula Sai Manikanta, currently working as a DevOps engineer at Infosys with 5.3 years of experience.
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <table>
   <tr>
@@ -28,7 +28,7 @@ Hi 👋, I am Akula Sai Manikanta, currently working as a DevOps engineer at Inf
 </div>
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 

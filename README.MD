@@ -21,7 +21,7 @@ Hi 👋, I am Akula Sai Manikanta, currently working as a DevOps engineer at Inf
   </tr>
 </table>
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo:
 
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Maniakula202&limit=5&theme=dark&combine_all_yearly_contributions=true" />

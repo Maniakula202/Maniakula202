@@ -1,7 +1,4 @@
-<a href="https://www.canva.com/design/DAG5gSLOdAE/L4axI9sTjpKcypiMa25haA/view?utm_content=DAG5gSLOdAE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8b330d47d4" target="_blank">
-  <img alt="Manikanta Akuta | DevOps Engineer at Infosys Banner" src="https://www.canva.com/design/DAG5gSLOdAE/L4axI9sTjpKcypiMa25haA/view?utm_content=DAG5gSLOdAE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8b330d47d4" style="width:100%;max-width:900px;"/>
-</a>
-
+<img src="banner-1.png" alt="Manikanta Akuta | DevOps Engineer at Infosys Banner" style="width:100%;max-width:900px;" />
 
 # 💫 About Me:
 Hi 👋, I am Akula Sai Manikanta, currently working as a DevOps engineer at Infosys.

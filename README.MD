@@ -1,8 +1,8 @@
 # 💫 About Me:
-Hi, I am Akula Sai Manikanta, currently working as a DevOps engineer at Infosys.
+Hi 👋, I am Akula Sai Manikanta, currently working as a DevOps engineer at Infosys.
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Maniakula202&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Maniakula202&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=Maniakula202&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maniakula202&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 

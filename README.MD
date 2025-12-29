@@ -8,18 +8,19 @@ Hi 👋, I am Akula Sai Manikanta, currently working as a DevOps engineer at Inf
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Maniakula202&theme=dark&hide_border=false&include_all_commits=false&count_private=false&cache_bust=1" width="500" height="150" alt="Maniakula202 GitHub stats" />
+      <img src="https://github-profile-trophy.vercel.app/?username=Maniakula202&theme=gruvbox" alt="Trophy" />
     </td>
     <td align="center">
-      <img src="https://streak-stats.demolab.com?user=Maniakula202&theme=dark&hide_border=false&cache_bust=1" width="450" height="150" alt="Maniakula202 streak stats" />
+      <img src="https://streak-stats.demolab.com/?user=Maniakula202&theme=gruvbox" alt="Streak" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maniakula202&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_bust=1" width="600" height="150" alt="Maniakula202 top languages" />
+      <img src="https://raw.githubusercontent.com/Maniakula202/Maniakula202/main/github-contribution-grid-snake.svg" alt="Snake" />
     </td>
   </tr>
 </table>
+
 
 ## 🔝 Top Contributed Repo:
 

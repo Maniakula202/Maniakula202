@@ -7,16 +7,16 @@ Hi 👋, I am Akula Sai Manikanta, currently working as a DevOps engineer at Inf
 
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Maniakula202&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Maniakula202&theme=dark&hide_border=false&include_all_commits=false&count_private=false&cache_bust=1" width="500" height="150" alt="Maniakula202 GitHub stats" />
     </td>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Maniakula202&theme=dark&hide_border=false" />
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=Maniakula202&theme=dark&hide_border=false&cache_bust=1" width="450" height="150" alt="Maniakula202 streak stats" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maniakula202&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maniakula202&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_bust=1" width="600" height="150" alt="Maniakula202 top languages" />
     </td>
   </tr>
 </table>
